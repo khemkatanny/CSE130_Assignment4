@@ -1,0 +1,4 @@
+scheduler.c: In function ‘stats’:
+scheduler.c:84:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i = 0; // Remove - only here to fail code warnings check
+       ^
